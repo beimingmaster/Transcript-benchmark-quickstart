@@ -1,4 +1,4 @@
-# Transcript Benchmark Quickstart: Speech-to-Text for Entrepreneurial Insights
+# Transcript Benchmark Quickstart: Speech-to-Text Insights
 ## 建议的适用范围
  - 斯坦福等的创业课，出文字稿。
  - TEDx的创业课，出文字稿。
@@ -34,7 +34,7 @@
 
 ### 从答案反推问题
 ```
-下面的文章之中，主要回答的是AI领域的哪几个具体问题？举出5个的例子
+下面的文章之中，主要回答的是创业领域的哪几个具体问题？请列举一个表格，包含两列，具体问题，答案
 -------
 {}
 ```
