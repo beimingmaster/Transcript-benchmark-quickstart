@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transcript Benchmark Quickstart: Speech-to-Text for Entrepreneurial Insights
 ## 建议的适用范围
  - 斯坦福等的创业课，出文字稿。
@@ -16,6 +17,18 @@
 
 ## 常用PROMPT
 ### 整理内容
+=======
+# Transcript-benchmark-quickstart
+## 常用步骤
+1. 在youtube上下载字幕(如下图），优先看[ 观看人数高、创业相关 ]
+<img width="1608" alt="image" src="https://github.com/zgimszhd61/Transcript-benchmark-quickstart/assets/114722053/663a796b-f06a-4067-8b06-64fda27b5d29">
+
+2. 存储内容，提供给app.py，调用GPT3.5进行翻译.
+
+3. 内容分享到Issue.
+
+## 整理内容
+>>>>>>> 0e69202... Update README.md
 ```
 重写整理内容为更易于中国人阅读的样子，包括段落修正、句子逻辑修正、翻译不通顺的之处重新表达意译，注意输出忠于原文的完整内容，保持原文意思不变.ZZZZ
 ---------
