@@ -1,3 +1,5 @@
+# 可能可废弃.
+
 from openai import OpenAI
 import os
 os.environ["OPENAI_API_KEY"] = "sk-"
