@@ -1,11 +1,11 @@
 # Transcript-benchmark-quickstart
-## 常用步骤
+## （从演讲到演讲文字稿）的常用步骤
 1. 在youtube上下载字幕(如下图），优先看[ 观看人数高、创业相关 ]
 <img width="1608" alt="image" src="https://github.com/zgimszhd61/Transcript-benchmark-quickstart/assets/114722053/663a796b-f06a-4067-8b06-64fda27b5d29">
 
-2. 存储内容，提供给app.py，调用GPT3.5进行翻译.
+3. 存储内容，提供给app.py，调用GPT3.5进行翻译.
 
-3. 内容分享到Issue.
+4. 内容分享到Issue.
 
 ## 常用PROMPT
 ### 整理内容
