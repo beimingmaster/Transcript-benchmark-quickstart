@@ -1,4 +1,4 @@
-# Transcript-benchmark-quickstart
+# Transcript Benchmark Quickstart: Streamlining Speech-to-Text for Entrepreneurial Insights
 ## 建议的适用范围
  - 斯坦福等的创业课，出文字稿。
  - TEDx的创业课，出文字稿。
