@@ -5,7 +5,9 @@
 
 3. 存储内容，提供给app.py，调用GPT3.5进行翻译.
 
-4. 内容分享到Issue.
+4. 内容分享到本repo的Issue .
+
+5. 有新Idea，请联系联系@seclink
 
 ## 常用PROMPT
 ### 整理内容
